@@ -1,4 +1,4 @@
-Welcome to the Vetr Organization on GitHub
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/user-attachments/assets/9142f1f9-8d96-480f-902e-c351f77d3f82" alt="Vetr Logo" width="150">
 <h1 align="center">Vetr</h1>
